@@ -1,6 +1,6 @@
 {
   "name": "module_derry_test_one",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "module2": "^0.0.5"
+    "module_derry_test_two": "^0.0.7"
   },
-  "gitHead": "bf4cf19078645dc380574fc7439a2c007af92ac7"
+  "gitHead": "d9465252bf9119fb5a42e63dcd6daf29684855d0"
 }
