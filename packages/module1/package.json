@@ -1,6 +1,6 @@
 {
-  "name": "module1",
-  "version": "0.0.5",
+  "name": "module_derry_test_one",
+  "version": "0.0.6",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,5 +11,5 @@
   "dependencies": {
     "module2": "^0.0.5"
   },
-  "gitHead": "903aab352330010319662aaf0a11c2c9357849b6"
+  "gitHead": "bf4cf19078645dc380574fc7439a2c007af92ac7"
 }
